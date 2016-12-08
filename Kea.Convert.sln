@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kea.Convert", "Kea.Convert\Kea.Convert.csproj", "{720E9CED-976B-434A-B126-D3E8816FCEE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kea.Convert.Test", "Kea.Convert.Test\Kea.Convert.Test.csproj", "{1DED3E7F-57CA-46D1-BC28-2255305605B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{720E9CED-976B-434A-B126-D3E8816FCEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{720E9CED-976B-434A-B126-D3E8816FCEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{720E9CED-976B-434A-B126-D3E8816FCEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DED3E7F-57CA-46D1-BC28-2255305605B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DED3E7F-57CA-46D1-BC28-2255305605B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DED3E7F-57CA-46D1-BC28-2255305605B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DED3E7F-57CA-46D1-BC28-2255305605B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
